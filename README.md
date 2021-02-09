@@ -7,6 +7,9 @@ Projeto desenvolvido no Boocamp Desenvolvedor FULLSTACK realizado pela IGTI
 - CSS
 - Javascript
 
+## Aprendizado
+- HTTP Requisitions
+- Array methods
 
 ## Search User
 ![](https://i.imgur.com/8Y4tM58.gif)
